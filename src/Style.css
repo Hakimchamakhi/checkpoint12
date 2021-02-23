@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App .title{
+  color: white;
+  padding: 40px;
+}
+.App .red{
+  background-color: red;
+  margin: 40px 100px;
+}
+.App img{
+  width: 320px;
+  height: 260px;
+}
